@@ -1,3 +1,5 @@
+<h1>Random Color Changer</h1>
+
 This is an exercise to practice using an event handler to manipulate style properties and HTML elements together.
 
 Clicking anywhere on the page changes the background to a random color and tells you the corresponding hexadecimal code. 
